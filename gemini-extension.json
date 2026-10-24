@@ -1,0 +1,11 @@
+{
+  "name": "pinbuilds",
+  "version": "1.0.0",
+  "description": "Create Pinterest pins from blog posts and Shopify/Etsy products and schedule them to your boards with PinBuilds.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "pinbuilds": {
+      "httpUrl": "https://pinbuilds.com/api/mcp"
+    }
+  }
+}
